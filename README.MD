@@ -5,7 +5,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-<a href="Transformação Digital com IA.pdf" title="Transformação Digital com IA.pdf"> 📕Clique aqui para ler</a>
+<a href="https://github.com/AlinePires/DIO/blob/main/Transforma%C3%A7%C3%A3o%20Digital%20com%20IA.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
