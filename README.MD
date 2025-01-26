@@ -5,7 +5,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
-<a href="Transformação Digital com IA.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="Transformação Digital com IA.pdf" title="Transformação Digital com IA.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
